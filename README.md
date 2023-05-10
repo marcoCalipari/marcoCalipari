@@ -35,7 +35,8 @@
 
 ### :fire: My Stats :
  
-[![Marco's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=marcoCalipari&show_icons=true&count_private=true& theme=dark&hide=contribs,prs#gh-dark-mode-only)](https://github.com/marcoCalipari/github-readme-stats#gh-dark-mode-only)
+[![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcoCalipari&show_icons=true&count_private=true&theme=synthwave&hide=contribs,prs)](https://github.com/marcoCalipari/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcoCalipari&layout=compact&theme=vision-friendly-dark)](https://github.com/marcoCalipari/github-readme-stats)
 
 
