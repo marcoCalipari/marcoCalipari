@@ -28,7 +28,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40">
-  <img src="https://www.google.com/search?sxsrf=AB5stBgQeHcqkq71h-RJDNV2Qs3U3m4pxQ:1690885670441&q=tamarin+prover&tbm=isch&source=lnms&sa=X&ved=2ahUKEwja4vf9n7uAAxXu8rsIHcmZAfAQ0pQJegQIDRAB&biw=1536&bih=718&dpr=1.25#imgrc=1YcUZiQ5ocFFGM" title="tamarin" alt="tamarin" width="40" height="40">&nbsp;
+  <img src="https://www.google.com/search?sxsrf=AB5stBgQeHcqkq71h-RJDNV2Qs3U3m4pxQ:1690885670441&q=tamarin+prover&tbm=isch&source=lnms&sa=X&ved=2ahUKEwja4vf9n7uAAxXu8rsIHcmZAfAQ0pQJegQIDRAB&biw=1536&bih=718&dpr=1.25#imgrc=1YcUZiQ5ocFFGM" title="tamarin" alt="tamarin" width="40" height="40">
   
 </div>
 
