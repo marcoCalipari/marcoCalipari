@@ -8,6 +8,9 @@
   </a>
 </div>
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=marcoCalipari)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
